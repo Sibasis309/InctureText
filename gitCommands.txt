@@ -1,4 +1,8 @@
 git init
 git push
 git pull
-git remote -v
+git commit
+git add .
+git commit -m "Version1pushed".
+
+git public URL Link  https://github.com/Sibasis309/InctureText
